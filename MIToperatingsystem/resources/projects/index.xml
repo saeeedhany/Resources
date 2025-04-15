@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on MIT OpenCourseWare</title>
+    <link>/resources/projects/</link>
+    <description>Recent content in Projects on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>/pages/projects/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/projects/data.json</guid>
+      <description>&lt;p&gt;In the second half of the course you&amp;rsquo;ll work on an operating systems project of your choice in teams of two or three. The goal is to have fun and explore more advanced O / S topics; you don&amp;rsquo;t have to do novel research.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ll grade you on how much you got working, how elegant your design is, how well you can explain it, and how interesting and creative your solution is. We do realize that time is limited, so we don&amp;rsquo;t expect you to re-write Linux by the end of the semester. Try to make sure your goals are reasonable; perhaps set a minimum goal that&amp;rsquo;s definitely achievable and a more ambitious goal if things go well.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

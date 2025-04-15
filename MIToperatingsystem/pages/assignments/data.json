@@ -1,0 +1,6 @@
+
+{
+  "title":"Assignments",
+  "content":" LEC # TOPICS AND ASSOCIATED FILES 1 Shell Exercises (PDF)\nsh.c (C)\n2 Boot xv6 (PDF) 3 Trace System Calls, Add Halt (PDF) 4 Lazy Page Allocation (PDF) 5 xv6 CPU Alarm (PDF) 6 Locks (PDF)\nph.c (C)\n7 Uthreads (PDF)\nuthread_switch.S (S)\nuthread.c (C)\n8 Barrier (PDF)\nbarrier.c (C)\n9 Big Files (PDF)\nbig.c (C)\nInode Diagram (PDF)\n10 Crash (PDF) 11 Journaling (PDF) 13 OS Organization (PDF) 18 Spin Lock Alternatives (PDF) 21 Lock-free Coordination (PDF) 22 Virtual Machines (PDF) "}
+
+

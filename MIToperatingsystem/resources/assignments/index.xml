@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/assignments/data.json</guid>
+      <description>&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;LEC #&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;TOPICS AND ASSOCIATED FILES&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;1&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_828f12_assignment1/index.html&#34;&gt;Shell Exercises (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/sh/index.html&#34;&gt;sh.c (C)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_assignment2/index.html&#34;&gt;Boot xv6 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;3&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_assignment3/index.html&#34;&gt;Trace System Calls, Add Halt (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;4&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_assignment4/index.html&#34;&gt;Lazy Page Allocation (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;5&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_assignment5/index.html&#34;&gt;xv6 CPU Alarm (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;6&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_828f12_assignment6/index.html&#34;&gt;Locks (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/ph/index.html&#34;&gt;ph.c (C)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;7&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_828f12_assignment7/index.html&#34;&gt;Uthreads (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/uthread_switch/index.html&#34;&gt;uthread_switch.S (S)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/uthread/index.html&#34;&gt;uthread.c (C)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;8&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_828f12_assignment8/index.html&#34;&gt;Barrier (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/barrier/index.html&#34;&gt;barrier.c (C)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;9&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_828f12_assignment9/index.html&#34;&gt;Big Files (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/big/index.html&#34;&gt;big.c (C)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_828f12_inode/index.html&#34;&gt;Inode Diagram (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;10&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_assignment10/index.html&#34;&gt;Crash (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;11&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_assignment11/index.html&#34;&gt;Journaling (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>barrier.c</title>
+      <link>/resources/barrier/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/barrier/data.json</guid>
+      <description>&lt;p&gt;This is the special file regarding barrier c.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>big.c</title>
+      <link>/resources/big/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/big/data.json</guid>
+      <description>&lt;p&gt;This is the special file regarding big c.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 1</title>
+      <link>/resources/mit6_828f12_assignment1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment1/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 10</title>
+      <link>/resources/mit6_828f12_assignment10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment10/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 10.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 11</title>
+      <link>/resources/mit6_828f12_assignment11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment11/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 11.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 13</title>
+      <link>/resources/mit6_828f12_assignment13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment13/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 13.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 18</title>
+      <link>/resources/mit6_828f12_assignment18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment18/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 18.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 2</title>
+      <link>/resources/mit6_828f12_assignment2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment2/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 21</title>
+      <link>/resources/mit6_828f12_assignment21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment21/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 21.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 22</title>
+      <link>/resources/mit6_828f12_assignment22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment22/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 22.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 3</title>
+      <link>/resources/mit6_828f12_assignment3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment3/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 3.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 4</title>
+      <link>/resources/mit6_828f12_assignment4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment4/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 4.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 5</title>
+      <link>/resources/mit6_828f12_assignment5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment5/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 5.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 6</title>
+      <link>/resources/mit6_828f12_assignment6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment6/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 6.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 7</title>
+      <link>/resources/mit6_828f12_assignment7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment7/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 7.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 8</title>
+      <link>/resources/mit6_828f12_assignment8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment8/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 8.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Assignment 9</title>
+      <link>/resources/mit6_828f12_assignment9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_assignment9/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Assignment 9.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Inode Diagram</title>
+      <link>/resources/mit6_828f12_inode/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_inode/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Inode Diagram.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ph.c</title>
+      <link>/resources/ph/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ph/data.json</guid>
+      <description>&lt;p&gt;This is the special file regarding ph c.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>sh.c</title>
+      <link>/resources/sh/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/sh/data.json</guid>
+      <description>&lt;p&gt;This is the special file regarding sh.c.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>uthread_switch.S</title>
+      <link>/resources/uthread_switch/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/uthread_switch/data.json</guid>
+      <description>&lt;p&gt;This is the special file regarding uthread switch c.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>uthread.c</title>
+      <link>/resources/uthread/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/uthread/data.json</guid>
+      <description>&lt;p&gt;This is the special file regarding uthread c.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

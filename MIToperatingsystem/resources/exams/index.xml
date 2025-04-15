@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Operating System Engineering, Exam 2, Fall 2002</title>
+      <link>/resources/mit6_828f12_q02_2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q02_2_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2, Fall 2002.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/exams/data.json</guid>
+      <description>&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;EXAMS W / SOLUTIONS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;YEARS&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td colspan=&#34;2&#34;&gt;&#xA;&#xA;&lt;strong&gt;Mid–Term Exams&lt;/strong&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q02_1_sol/index.html&#34;&gt;Quiz 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2002&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q03_1_sol/index.html&#34;&gt;Quiz 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2003&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q04_1_sol/index.html&#34;&gt;Quiz 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2004&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q05_1_sol/index.html&#34;&gt;Quiz 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2005&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q06_1_sol/index.html&#34;&gt;Quiz 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2006&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q07_1_sol/index.html&#34;&gt;Quiz 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2007&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q08_1/index.html&#34;&gt;Quiz 1 (without solutions) (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2008&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q08_1_sol/index.html&#34;&gt;Quiz 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2008&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q09_1/index.html&#34;&gt;Quiz 1 (without solutions) (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2009&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q09_1_sol/index.html&#34;&gt;Quiz 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2009&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q10_1/index.html&#34;&gt;Quiz 1 (without solutions) (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2010&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q10_1_sol/index.html&#34;&gt;Quiz 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2010&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q11_1/index.html&#34;&gt;Quiz 1(without solutions) (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2011&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit6_828f12_q11_1_sol/index.html&#34;&gt;Quiz 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2011&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1 Solutions, Fall 2003</title>
+      <link>/resources/mit6_828f12_q03_1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q03_1_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1 Solutions, Fall 2003.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1 Solutions, Fall 2004</title>
+      <link>/resources/mit6_828f12_q04_1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q04_1_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1 Solutions, Fall 2004.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1 Solutions, Fall 2005</title>
+      <link>/resources/mit6_828f12_q05_1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q05_1_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1 Solutions, Fall 2005.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1 Solutions, Fall 2007</title>
+      <link>/resources/mit6_828f12_q07_1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q07_1_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1 Solutions, Fall 2007.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1 Solutions, Fall 2008</title>
+      <link>/resources/mit6_828f12_q08_1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q08_1_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1 Solutions, Fall 2008.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1 Solutions, Fall 2009</title>
+      <link>/resources/mit6_828f12_q09_1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q09_1_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1 Solutions, Fall 2009.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1 Solutions, Fall 2010</title>
+      <link>/resources/mit6_828f12_q10_1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q10_1_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1 Solutions, Fall 2010.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1 Solutions, Fall 2011</title>
+      <link>/resources/mit6_828f12_q11_1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q11_1_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1 Solutions, Fall 2011.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1 Solutions, Fall 2012</title>
+      <link>/resources/mit6_828f12_q12_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q12_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1 Solutions, Fall 2012.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1, Fall 2002</title>
+      <link>/resources/mit6_828f12_q02_1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q02_1_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1, Fall 2002.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1, Fall 2006</title>
+      <link>/resources/mit6_828f12_q06_1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q06_1_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1, Fall 2006.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1, Fall 2008</title>
+      <link>/resources/mit6_828f12_q08_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q08_1/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1, Fall 2008.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1, Fall 2009</title>
+      <link>/resources/mit6_828f12_q09_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q09_1/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1, Fall 2009.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1, Fall 2010</title>
+      <link>/resources/mit6_828f12_q10_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q10_1/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1, Fall 2010.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1, Fall 2011</title>
+      <link>/resources/mit6_828f12_q11_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q11_1/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1, Fall 2011.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 1, Fall 2012</title>
+      <link>/resources/mit6_828f12_q12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q12/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 1, Fall 2012.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2 Solutions, Fall 2003</title>
+      <link>/resources/mit6_828f12_q03_2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q03_2_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2 Solutions, Fall 2003&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2 Solutions, Fall 2004</title>
+      <link>/resources/mit6_828f12_q04_2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q04_2_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2 Solutions, Fall 2004.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2 Solutions, Fall 2005</title>
+      <link>/resources/mit6_828f12_q05_2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q05_2_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2 Solutions, Fall 2005.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2 Solutions, Fall 2007</title>
+      <link>/resources/mit6_828f12_q07_2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q07_2_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2 Solutions, Fall 2007.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2 Solutions, Fall 2008</title>
+      <link>/resources/mit6_828f12_q08_2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q08_2_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2 Solutions, Fall 2008.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2 Solutions, Fall 2009</title>
+      <link>/resources/mit6_828f12_q09_2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q09_2_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2 Solutions, Fall 2009.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2 Solutions, Fall 2010</title>
+      <link>/resources/mit6_828f12_q10_2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q10_2_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2 Solutions, Fall 2010.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2 Solutions, Fall 2011</title>
+      <link>/resources/mit6_828f12_q11_2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q11_2_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2 Solutions, Fall 2011.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2, Fall 2006</title>
+      <link>/resources/mit6_828f12_q06_2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q06_2_sol/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2, Fall 2006.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2, Fall 2008</title>
+      <link>/resources/mit6_828f12_q08_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q08_2/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2, Fall 2008.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2, Fall 2009</title>
+      <link>/resources/mit6_828f12_q09_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q09_2/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2, Fall 2009.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2, Fall 2010</title>
+      <link>/resources/mit6_828f12_q10_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q10_2/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2, Fall 2010.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System Engineering, Exam 2, Fall 2011</title>
+      <link>/resources/mit6_828f12_q11_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_828f12_q11_2/data.json</guid>
+      <description>&lt;p&gt;This file contains the information regarding Operating System Engineering, Exam 2, Fall 2011&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

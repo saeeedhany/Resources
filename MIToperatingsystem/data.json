@@ -1,0 +1,23 @@
+{
+  "course_title":"Operating System Engineering",
+  "course_description":"This course studies fundamental design and implementation ideas in the engineering of operating systems. Lectures are based on a study of UNIX and research papers. Topics include virtual memory, threads, context switches, kernels, interrupts, system calls, interprocess communication, coordination, and the interaction between software and hardware. Individual laboratory assignments involve implementation of a small operating system in C, with some x86 assembly.\n",
+  "course_description_html":"This course studies fundamental design and implementation ideas in the engineering of operating systems. Lectures are based on a study of UNIX and research papers. Topics include virtual memory, threads, context switches, kernels, interrupts, system calls, interprocess communication, coordination, and the interaction between software and hardware. Individual laboratory assignments involve implementation of a small operating system in C, with some x86 assembly.",
+  "site_uid":"dabd5609-34a1-4af9-ad38-9c4f02172d24",
+  "legacy_uid":"2124fd38-e2dd-7e77-b300-a88e776d3c6f","instructors": [{
+    "first_name":"Frans",
+    "last_name":"Kaashoek",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Frans Kaashoek"}],"department_numbers":["6"],
+  "learning_resource_types":["Exams with Solutions","Lecture Notes","Projects with Examples","Programming Assignments"],
+  "topics":[["Engineering","Computer Science","Operating Systems"],["Engineering","Computer Science","Software Design and Engineering"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"6.828",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2012",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/4a52efefb94f3abfe18f4a53cc2b74a7_6-828f12.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"Mapping of virtual address space to physical address space. Image courtesy of Wikimedia Commons. All rights reserved. This content is excluded from our Creative Commons license. For more information, see http://ocw.mit.edu/fairuse.","draft":false,"file":"/courses/6-828-operating-system-engineering-fall-2012/4a52efefb94f3abfe18f4a53cc2b74a7_6-828f12.jpg","file_size":41777,"file_type":"image/jpeg","image_metadata":{"caption":"Mapping of virtual address space to physical address space. (Image courtesy of Wikimedia Commons. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).)","credit":"Image courtesy of Wikimedia Commons. All rights reserved. This content is excluded from our Creative Commons license. For more information, see http://ocw.mit.edu/fairuse.","image-alt":"Diagram of a virtual address space, with different points mapping onto a physical address space."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"6-828f12.jpg","uid":"4a52efef-b94f-3abf-e18f-4a53cc2b74a7"}}
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on MIT OpenCourseWare</title>
+    <link>/resources/tools/</link>
+    <description>Recent content in Tools on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools</title>
+      <link>/pages/tools/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/tools/data.json</guid>
+      <description>&lt;h3 id=&#34;tools-used-in-6828&#34;&gt;Tools Used in 6.828&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;If you would like to compile and run the tools on your own machine, here is the information you need. We cannot guarantee that these tools will run on your computer, but they should run on recent versions of Linux.&lt;/p&gt;&#xA;&lt;p&gt;It should be possible to get this development environment running under windows with the help of &lt;a href=&#34;http://www.cygwin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cygwin&lt;/a&gt;. Install cygwin, and be sure to install the flex and bison packages (they are under the development header).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+git remote set-url origin https://<authintecation url>@github.com/<user name>/<repo name>
+
+/*
+this is expired
+
+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
+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
+*/
+
+this is the new one
+
+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
+
+
+git remote set-url origin https://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@github.com/saeeedhany/Resources
+
+
+
